@@ -1,6 +1,6 @@
 # Algorithms, Part II
 
-Cousera online course, [Algorithms][2], created by Princeton
+Cousera online course, Algorithms 2, created by Princeton
 University, taught by: _Kevin Wayne_, Senior Lecturer and _Robert Sedgewick_,
 Professor.
 
